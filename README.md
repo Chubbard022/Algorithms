@@ -43,3 +43,4 @@ When you're confronted with a problem you haven't encountered before, the genera
 As you accrue more experience solving these sorts of algorithmic problems, you'll start to encounter problems you'll have seen before, i.e., some problems won't be novel to you anymore. In those cases you'll oftentimes be able to implement a better solution right off the bat, i.e., you'll be able to skip step 3. 
 
 
+
